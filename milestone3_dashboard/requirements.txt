@@ -1,0 +1,8 @@
+streamlit
+pandas
+transformers
+torch
+rouge-score
+sacrebleu
+textstat
+plotly

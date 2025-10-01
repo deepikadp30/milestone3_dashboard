@@ -1,0 +1,6 @@
+text,reference
+"This is a sample input text for summarization.","This is a sample summary."
+"Another input sentence for testing paraphrasing.","Another paraphrased sentence for testing."
+"This sentence will be translated to another language.","This sentence translated reference."
+"The quick brown fox jumps over the lazy dog.","The quick brown fox jumps over the lazy dog (reference)."
+"Streamlit makes building dashboards easy.","Streamlit simplifies dashboard creation."
